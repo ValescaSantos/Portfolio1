@@ -465,16 +465,16 @@ footer .btn3 :hover{
   }
 
   .sobre-1 img{
-     width: 15%;
+     width: 10%;
      display: block;
      position: relative;
      margin: 0;
      text-align: center;
-     margin-right: 35%;
+     margin-right: 50%;
      padding: 1%;
   
   }
-    .texto h2{
+   .texto h2{
      width: 25%;
      display: block;
      position: relative;
@@ -482,7 +482,7 @@ footer .btn3 :hover{
      padding: 1%;
      text-align: center;
      font-size: 15px;
-     right: 90%;
+     right: 95%;
      
   }
   .texto h5{
@@ -493,7 +493,7 @@ footer .btn3 :hover{
      padding: 1%;
      text-align: center;
      font-size: 15px;
-     right: 90%;
+     right: 95%;
      
   }
   .texto p{
@@ -504,7 +504,7 @@ footer .btn3 :hover{
      padding: 1%;
      text-align: center;
      font-size: 15px;
-     right: 90%;
+     right: 100%;
      
   }
 
